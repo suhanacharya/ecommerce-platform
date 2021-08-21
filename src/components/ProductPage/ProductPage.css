@@ -1,0 +1,9 @@
+productPage {
+  height: 75vh;
+}
+
+centered {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
