@@ -1,7 +1,7 @@
 # Ecommerce front-end demo
 
 ## Hosted on Netlify
-https://vigorous-pike-345f63.netlify.app/
+Hosted on Netlify, click [here](https://vigorous-pike-345f63.netlify.app/) to view the Live site.
 
 ## Task:
 - [x] All pages should have a Navbar for categories
@@ -19,3 +19,11 @@ https://vigorous-pike-345f63.netlify.app/
 ## Cart Page
 ![Cart page](https://user-images.githubusercontent.com/44167922/130314584-e2a42e1f-c3e7-434e-ba7f-3b53501a6446.png)
 
+## Tech Stack Used
+- Reactjs
+- Nodejs
+- Bootstrap
+- Figma Design
+
+### Figma wireframe design
+Check out the figma wireframe design [here](https://www.figma.com/file/Jq1gOS1ZaVRnxsEUCZpRDj/Ecommerce-Mockup?node-id=0%3A1)
